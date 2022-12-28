@@ -59,5 +59,11 @@ public class newPracticeClass {
         System.out.println("teen= " + person.isTeen());
         person.setLastName("Smith");    // lastName is set to Smith
         System.out.println("fullName= " + person.getFullName());*/
+
+        //Constructor example
+        Person person = new Person();
+        System.out.println(person.getFirstName());
+
+
     }
 }

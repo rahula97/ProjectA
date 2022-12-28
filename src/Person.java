@@ -2,6 +2,13 @@ public class Person {
     String firstName, lastName;
     int age;
 
+    public Person() {
+        firstName ="Max";
+        lastName = "Ver";
+        age=7;
+        System.out.println(firstName + " " + lastName + " " + age);
+    }
+
     public String getFirstName() {
         return firstName;
     }
