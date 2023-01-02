@@ -1,3 +1,4 @@
+package defaultPackage;
 public class Alien {
     private String alienName, alienPower;
 

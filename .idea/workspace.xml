@@ -4,11 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00db3658-3951-4ec2-a0d9-022f0a83c153" name="Changes" comment="Constructors">
-      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+    <list default="true" id="00db3658-3951-4ec2-a0d9-022f0a83c153" name="Changes" comment="Little Commit to get the day starting. Hoping to push another by EOD">
+      <change afterPath="$PROJECT_DIR$/src/defaultPackage/NumberInWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defaultPackage/lestSee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defaultPackage/switchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritancePractice/mainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newPracticeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newPracticeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/Alien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ben10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/Ben10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Benjamin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/Benjamin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Decimus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/Decimus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gwen10Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/Gwen10Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IclassOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/IclassOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/bankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/classExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/classOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decimus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/decimus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intefaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/intefaceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newPracticeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/newPracticeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primenumbercheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/primenumbercheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tbuchalkapractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/tbuchalkapractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vipCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/vipCustomer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +63,14 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/mint/Downloads/ClassesPart1&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
@@ -54,6 +79,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="defaultPackage" />
     </key>
   </component>
   <component name="RunManager" selected="Application.newPracticeClass">
@@ -71,9 +99,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="switchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="switchCase" />
+      <module name="ProjectA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.newPracticeClass" />
+        <item itemvalue="Application.switchCase" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671682637435</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Little Commit to get the day starting. Hoping to push another by EOD">
+      <created>1672209753495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672209753495</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +160,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Setup" />
     <MESSAGE value="Constructors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Constructors" />
+    <MESSAGE value="Little Commit to get the day starting. Hoping to push another by EOD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Little Commit to get the day starting. Hoping to push another by EOD" />
   </component>
 </project>

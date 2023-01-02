@@ -1,3 +1,4 @@
+package defaultPackage;
 public class classExample implements intefaceExample {
 
     int integerA, integerB, integerC;

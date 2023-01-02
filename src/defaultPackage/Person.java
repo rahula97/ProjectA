@@ -1,3 +1,4 @@
+package defaultPackage;
 public class Person {
     String firstName, lastName;
     int age;

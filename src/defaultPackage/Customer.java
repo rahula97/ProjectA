@@ -1,3 +1,4 @@
+package defaultPackage;
 public class Customer {
     String name,email;
     double creditLimit;

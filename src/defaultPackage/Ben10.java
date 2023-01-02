@@ -1,3 +1,4 @@
+package defaultPackage;
 public class Ben10 implements Benjamin{
     String alienColor, alienPower;
 

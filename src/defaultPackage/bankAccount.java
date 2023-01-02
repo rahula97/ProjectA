@@ -1,3 +1,4 @@
+package defaultPackage;
 public class bankAccount {
     private int accountNumber, balance, phoneNumber;
     private String email, customerName;

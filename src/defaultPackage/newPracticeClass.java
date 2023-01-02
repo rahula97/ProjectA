@@ -1,3 +1,7 @@
+package defaultPackage;
+import java.util.Scanner;
+
+
 public class newPracticeClass {
  /*   public static void main(String[] args){
         System.out.println("This is state of newPracticeClass");
@@ -46,7 +50,7 @@ public class newPracticeClass {
         /* intefaceExample variableName = new classExample();
 
         variableName.setIntegerA(32);
-        System.out.println(variableName.getIntegerA());*/ 
+        System.out.println(variableName.getIntegerA());*/
         /*Person person = new Person();
         person.setFirstName("");   // firstName is set to empty string
         person.setLastName("");    // lastName is set to empty string
@@ -60,10 +64,29 @@ public class newPracticeClass {
         person.setLastName("Smith");    // lastName is set to Smith
         System.out.println("fullName= " + person.getFullName());*/
 
-        //Constructor example
+
+       char x= new Scanner(System.in).next().charAt(0);
+
+        switch (x){
+            case 'a': System.out.print("AlphaCeph");
+                        break;
+            case 'b': System.out.print("BetaCeph");
+                break;
+            default: System.out.print("Nothing Found");
+        }
+
+       /* //Constructor example
         Person person = new Person();
         System.out.println(person.getFirstName());
+        System.out.println("Arnold Schwarzenegger");*/
 
+
+    }
+
+    public static char returnCharacter(){
+        Scanner x = new Scanner(System.in);
+        char y = x.next().charAt(0);
+        return y;
 
     }
 }

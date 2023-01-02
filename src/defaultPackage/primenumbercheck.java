@@ -1,3 +1,4 @@
+package defaultPackage;
 public class primenumbercheck {
 
     int number;

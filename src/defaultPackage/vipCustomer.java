@@ -1,3 +1,4 @@
+package defaultPackage;
 public class vipCustomer {
     private String name,email;
     private double creditLimit;
