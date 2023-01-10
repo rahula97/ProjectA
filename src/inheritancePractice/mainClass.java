@@ -26,6 +26,12 @@ public class mainClass {
         System.out.println("The Complex Number is real part: "+ number.getReal()+" and imaginary part is "+number.getImaginary());
 
 
+
+        StudentPojo studentOne = new StudentPojo(15,"Charles","Murder");
+
+        System.out.println(studentOne);
+
+
     }
 
     public void newPrint(){
